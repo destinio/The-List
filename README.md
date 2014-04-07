@@ -32,6 +32,8 @@
 ## random
 [rssdler](https://code.google.com/p/rssdler/wiki/InstallInstructions) - rss reader/downloader
 
+get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
+
 ## Fonts/Icons:
 
 [Font-awesome](http://fortawesome.github.io/Font-Awesome/)
