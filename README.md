@@ -34,6 +34,8 @@
 
 get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
+[img host](http://www.codefuture.co.uk/projects/imagehost/)
+
 [mail setup](http://www.ubuntututorials.com/send-email-command-line-ubuntu/)
 
 ## Fonts/Icons:
