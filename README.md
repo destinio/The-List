@@ -29,6 +29,11 @@
 
 [vim-colors-solarized](https://github.com/altercation/vim-colors-solarized) - solarized theme
 
+## Design
+
+#### fonts
+[Font Squirrel](http://www.fontsquirrel.com/)
+
 ## random
 [rssdler](https://code.google.com/p/rssdler/wiki/InstallInstructions) - rss reader/downloader
 
