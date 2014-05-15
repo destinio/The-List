@@ -37,6 +37,8 @@
 ## random
 [rssdler](https://code.google.com/p/rssdler/wiki/InstallInstructions) - rss reader/downloader
 
+[iphone screen sizes](http://www.iphoneresolution.com/)
+
 get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 [img host](http://www.codefuture.co.uk/projects/imagehost/)
