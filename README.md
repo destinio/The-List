@@ -3,6 +3,8 @@
 ## Server Config
 [LAMP stack](https://www.digitalocean.com/community/articles/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu) - digital Oceans LAMP stack guide
 
+[SSL setup](https://www.digitalocean.com/community/articles/how-to-create-a-ssl-certificate-on-apache-for-ubuntu-12-04)
+
 [tmux](https://www.digitalocean.com/community/articles/how-to-install-and-use-tmux-on-ubuntu-12-10--2)
 
 [tmux keyboard guide](https://gist.github.com/MohamedAlaa/2961058)
