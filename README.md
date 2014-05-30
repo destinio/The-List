@@ -47,6 +47,8 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 [mail setup](http://www.ubuntututorials.com/send-email-command-line-ubuntu/)
 
+[PLAX simple parallax scroller](https://github.com/cameronmcefee/plax)
+
 ## Fonts/Icons:
 
 [Font-awesome](http://fortawesome.github.io/Font-Awesome/)
