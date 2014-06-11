@@ -49,6 +49,8 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 [PLAX simple parallax scroller](https://github.com/cameronmcefee/plax)
 
+[IRCBot](http://willie.dftba.net/)
+
 ## Fonts/Icons:
 
 [Font-awesome](http://fortawesome.github.io/Font-Awesome/)
