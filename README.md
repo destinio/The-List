@@ -51,6 +51,8 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 [IRCBot](http://willie.dftba.net/)
 
+[favicon gen](http://tools.dynamicdrive.com/favicon/)
+
 ## Forum
 fluxbb
 [disable ip check](https://fluxbb.org/forums/viewtopic.php?id=4955)
