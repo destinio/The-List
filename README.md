@@ -35,6 +35,14 @@
 
 #### fonts
 [Font Squirrel](http://www.fontsquirrel.com/)
+[Font-awesome](http://fortawesome.github.io/Font-Awesome/)
+
+## BASH profile and other command line fun
+[Destin.io .bash_profile](https://gist.github.com/destinio/10970757e8e9238045c4)
+
+## Forum
+fluxbb
+[disable ip check](https://fluxbb.org/forums/viewtopic.php?id=4955)
 
 ## random
 [rssdler](https://code.google.com/p/rssdler/wiki/InstallInstructions) - rss reader/downloader
@@ -52,14 +60,3 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 [IRCBot](http://willie.dftba.net/)
 
 [favicon gen](http://tools.dynamicdrive.com/favicon/)
-
-## BASH profile and other command line fun
-[Destin.io .bash_profile](https://gist.github.com/destinio/10970757e8e9238045c4)
-
-## Forum
-fluxbb
-[disable ip check](https://fluxbb.org/forums/viewtopic.php?id=4955)
-
-## Fonts/Icons:
-
-[Font-awesome](http://fortawesome.github.io/Font-Awesome/)
