@@ -62,3 +62,5 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 [favicon gen](http://realfavicongenerator.net/)
 
 [Slick Carousel](http://kenwheeler.github.io/slick/)
+
+[to read: parallax](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
