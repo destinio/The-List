@@ -64,3 +64,6 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 [Slick Carousel](http://kenwheeler.github.io/slick/)
 
 [to read: parallax](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
+
+## Now Development Hardware tools
+[Hard Drive Smart check](http://www.volitans-software.com/smart_utility.php)
