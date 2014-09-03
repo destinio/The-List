@@ -67,8 +67,10 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 [to read: parallax](http://blog.keithclark.co.uk/pure-css-parallax-websites/)
 
+[automator batch resize images](http://osxdaily.com/2011/12/20/batch-resize-pictures-in-mac-os-x-using-automator/)
+
 ## automated testing
 [QT](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
 
-## Now Development Hardware tools
+## Non Development Hardware tools
 [Hard Drive Smart check](http://www.volitans-software.com/smart_utility.php)
