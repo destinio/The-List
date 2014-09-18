@@ -7,6 +7,8 @@
 * 6/20/2012
 */
 
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700);
+
 /* Table of Content
 ==================================================
 	#Site Styles
@@ -29,97 +31,35 @@
 
 	.title-main {
 		color: #555555;
-		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+		font-family: 'Oswald', sans-serif;
 	}
 
 	.main h1 {
 		text-align: center;
-		margin-top:80px;
+		margin-top:200px;
 		margin-bottom:80px;
 		font-size: 8em;
-
-	
 	}
+
 	.io {
 		color:#18B3DD;
 	}
 
-	.content {
-		font-size: 2.5em;
-		text-align: justify;
-		margin: auto;
-		line-height: 1.4;
-	}
-
 	.social {
-		-moz-border-radius: 10px;
-		-webkit-border-radius: 10px;
-		border-radius: 10px; /* future proofing */
-		-khtml-border-radius: 10px; /* for old Konqueror browsers */;
-		padding: 5px;
+		text-align: center;
+		margin: 0 auto;
 	}
 
-	.github {
-		color: #AC5E52;
+	.social i {
+		margin-right: 20px;
+		color:#555555;
 	}
 
-	.github:hover {
-		color: #F4CAB1;
-		background: #AC5E52;
+	.social i:hover {
+		color:#1BA4D5;
 	}
 
-	.twitter {
-		color: #00B0ED;
-	}
-
-	.twitter:hover {
-		color: #FFF;
-		background: #00B0ED;
-	}
-	.fb {
-		color: #3b5998;
-	}
-
-	.fb:hover {
-		color: #FFF;
-		background: #3b5998;
-	}
-
-	.shout {
-		color: #3b5998;
-	}
-
-	.shout:hover {
-		color: #FFF;
-		background: #3b5998;
-	}
-
-	.ar {
-		color: #EE9F14;
-	}
-
-	.ar:hover {
-		color: #EE9F14;
-		background: #000;
-	}
-
-	.yt {
-		color: #E42D2A;
-	}
-
-	.yt:hover {
-		color: #FFF;
-		background: #E42D2A;
-	}
-
-	.link {
-		color: #3b5998;
-	}
-
-	.link:hover {
-		color: #FFF;
-		background: #3b5998;
-	}
+	
 /* #Page Styles
 ================================================== */
 
@@ -136,20 +76,11 @@
 	@media only screen and (max-width: 767px) {}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
-	@media only screen and (min-width: 480px) and (max-width: 767px) {
-	
-	.content {
-		font-size: 2em;
-	}
-	
-	
-	}
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
-	.content {
-		font-size: 2em;
-	}
+	
 	
 	.main h1 {
 		font-size:4em;
