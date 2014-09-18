@@ -44,6 +44,9 @@
 fluxbb
 [disable ip check](https://fluxbb.org/forums/viewtopic.php?id=4955)
 
+## Image
+[simple light room jQuery plugin](http://sachinchoolur.github.io/lightGallery/index.html)
+
 ## random
 [rssdler](https://code.google.com/p/rssdler/wiki/InstallInstructions) - rss reader/downloader
 
