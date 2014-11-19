@@ -43,6 +43,9 @@
 ## BASH profile and other command line fun
 [Destin.io .bash_profile](https://gist.github.com/destinio/10970757e8e9238045c4)
 
+## Torrent
+[rTorrent - ruTorrent](http://thelostyankee.com/installing-rutorrent-on-ubuntu-12-04/)
+
 ## Forum
 fluxbb
 [disable ip check](https://fluxbb.org/forums/viewtopic.php?id=4955)
