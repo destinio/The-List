@@ -44,7 +44,7 @@
 [Destin.io .bash_profile](https://gist.github.com/destinio/10970757e8e9238045c4)
 
 ## Torrent
-[rTorrent - ruTorrent](http://thelostyankee.com/installing-rutorrent-on-ubuntu-12-04/)
+[rTorrent - ruTorrent](http://www.filesharingguides.com/torrent-guide-install-rutorrent-seedbox-ubuntu-debian-vps/)
 
 ## Forum
 fluxbb
