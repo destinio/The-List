@@ -83,3 +83,6 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 ## Non Development Hardware tools
 [Hard Drive Smart check](http://www.volitans-software.com/smart_utility.php)
+
+## MEDIA SERVER
+sudo service plexmediaserver start
