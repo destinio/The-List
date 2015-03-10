@@ -78,6 +78,8 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 [automator batch resize images](http://osxdaily.com/2011/12/20/batch-resize-pictures-in-mac-os-x-using-automator/)
 
+[SFTP from command line](https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server)
+
 ## automated testing
 [QT](https://github.com/thoughtbot/capybara-webkit/wiki/Installing-Qt-and-compiling-capybara-webkit)
 
