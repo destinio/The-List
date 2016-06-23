@@ -44,9 +44,6 @@
 ## BASH profile and other command line fun
 [Destin.io .bash_profile](https://gist.github.com/destinio/10970757e8e9238045c4)
 
-## Torrent
-[rTorrent - ruTorrent](http://www.filesharingguides.com/torrent-guide-install-rutorrent-seedbox-ubuntu-debian-vps/)
-
 ## Forum
 fluxbb
 [disable ip check](https://fluxbb.org/forums/viewtopic.php?id=4955)
