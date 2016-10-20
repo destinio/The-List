@@ -84,3 +84,4 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 
 ## MEDIA SERVER
 http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
+https://www.linuxbabe.com/desktop-linux/install-kodi-debian-8-ubuntu
