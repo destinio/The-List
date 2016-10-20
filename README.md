@@ -83,4 +83,4 @@ get ip address command/alias - alias myip="curl http://ipecho.net/plain; echo"
 [Hard Drive Smart check](http://www.volitans-software.com/smart_utility.php)
 
 ## MEDIA SERVER
-sudo service plexmediaserver start
+http://mymediaexperience.com/raspberry-pi-xbmc-with-raspbmc/
